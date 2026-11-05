@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="InfoNova - Portal de noticias y comentarios colaborativo">
-    <title>@yield('title', 'InfoNova · Blog de Noticias')</title>
+    <meta name="description" content="MaxiNews - Portal de noticias y comentarios colaborativo">
+    <title>@yield('title', 'MaxiNews · Blog de Noticias')</title>
 
     <!-- Google Fonts: Playfair Display & Roboto -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -135,7 +135,7 @@
 
             <div class="col-4 text-center">
                 <a class="blog-header-logo text-dark fw-bold" href="{{ route('noticia.index') }}">
-                    InfoNova
+                    MaxiNews
                 </a>
             </div>
 
@@ -200,7 +200,7 @@
 <footer class="blog-footer">
     <div class="container">
         <p class="mb-1">
-            <strong>InfoNova</strong> &mdash; Periódico digital y plataforma comunitaria de noticias.
+            <strong>MaxiNews</strong> &mdash; Periódico digital y plataforma comunitaria de noticias.
         </p>
 
         <p class="text-muted small mb-2">

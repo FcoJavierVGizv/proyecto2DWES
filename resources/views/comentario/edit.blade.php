@@ -1,6 +1,6 @@
 @extends('template.base')
 
-@section('title', 'Editar comentario - InfoNova')
+@section('title', 'Editar comentario - MaxiNews')
 
 @section('content')
 <div class="container my-5">
